@@ -20,7 +20,11 @@ Class C Network: 201.191.20.0/24 connected via interface GigabitEthernet0/2 to S
 ![alt image](https://github.com/ayushgupta0542/IPv4-Addressing/blob/a13b636fe13dfba8d0703ce0703de2af8332eb21/Physical%20Network%20Layout.png)
 
 # Router Interface Configuration
-The router has three gigabit Ethernet interfaces . Each is the default gateway for a different LAN . All interfaces are up/up which means that the physical and data link layers are up and running.
+The router has three gigabit Ethernet interfaces.
+
+Each is the default gateway for a different LAN.
+
+All interfaces are up/up which means that the physical and data link layers are up and running.
 
 Interface             	IP Address	            Subnet Mask	            Connected Network
 GigabitEthernet0/0	    15.255.255.254	        255.0.0.0 (/8)	        15.0.0.0/8
@@ -37,7 +41,8 @@ GigabitEthernet0/0     15.255.255.254  YES manual up                    up
 GigabitEthernet0/1     182.98.255.254  YES manual up                    up
 GigabitEthernet0/2     201.191.20.254  YES manual up                    up
 
-Purpose
+Purpose:
+
 Provide Layer 3 connectivity between the three networks.
 Serve as the default gateway for hosts in each subnet.
 Enable inter-network communication through routing.
