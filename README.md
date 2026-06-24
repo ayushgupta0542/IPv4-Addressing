@@ -37,10 +37,12 @@ The show ip interface brief command confirms that all configured interfaces are 
 Command : R1#show ip interface brief
 ```
 
-Interface              IP-Address      OK? Method Status                Protocol
-GigabitEthernet0/0     15.255.255.254  YES manual up                    up
-GigabitEthernet0/1     182.98.255.254  YES manual up                    up
-GigabitEthernet0/2     201.191.20.254  YES manual up                    up
+| Interface          | IP Address     | OK? | Method | Status | Protocol |
+| ------------------ | -------------- | --- | ------ | ------ | -------- |
+| GigabitEthernet0/0 | 15.255.255.254 | YES | manual | up     | up       |
+| GigabitEthernet0/1 | 182.98.255.254 | YES | manual | up     | up       |
+| GigabitEthernet0/2 | 201.191.20.254 | YES | manual | up     | up       |
+
 
 Purpose:
 
