@@ -16,3 +16,6 @@ Class C Network: 201.191.20.0/24 connected via interface GigabitEthernet0/2 to S
 
 ![alt image](https://github.com/ayushgupta0542/IPv4-Addressing/blob/d595b68fe2e5b19a963d7269218daebaeec2ee0a/Network%20Topology.png)
 
+# Physical Network Layout
+![alt image]()
+
