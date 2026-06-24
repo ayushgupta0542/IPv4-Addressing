@@ -56,5 +56,6 @@ Command : R1#show running-config
 ```
 ![alt image](https://github.com/ayushgupta0542/IPv4-Addressing/blob/0494d402dc0724567a9d1923468f7dbe5c40acc2/Running%20Configuration.png)
 
-
-
+# PC IP CONFIGURATIONS
+**PC 1**
+![alt image](https://github.com/ayushgupta0542/IPv4-Addressing/blob/af5316573f92eb3f38897c93b9528fd6b035d2dc/PC1%20IP%20Config...png)
