@@ -54,7 +54,7 @@ Enable inter-network communication through routing.
 ```plaintext
 Command : R1#show running-config
 ```
-
+![alt image](https://github.com/ayushgupta0542/IPv4-Addressing/blob/0494d402dc0724567a9d1923468f7dbe5c40acc2/Running%20Configuration.png)
 
 
 
