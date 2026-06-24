@@ -26,10 +26,11 @@ Each is the default gateway for a different LAN.
 
 All interfaces are up/up which means that the physical and data link layers are up and running.
 
-Interface             	IP Address	            Subnet Mask	            Connected Network
-GigabitEthernet0/0	    15.255.255.254	        255.0.0.0 (/8)	        15.0.0.0/8
-GigabitEthernet0/1	    182.98.255.254          255.255.0.0 (/16)	      182.98.0.0/16
-GigabitEthernet0/2	    201.191.20.254	        255.255.255.0 (/24)     201.191.20.0/24
+| Interface          | IP Address     | Subnet Mask         | Connected Network |
+| ------------------ | -------------- | ------------------- | ----------------- |
+| GigabitEthernet0/0 | 15.255.255.254 | 255.0.0.0 (/8)      | 15.0.0.0/8        |
+| GigabitEthernet0/1 | 182.98.255.254 | 255.255.0.0 (/16)   | 182.98.0.0/16     |
+| GigabitEthernet0/2 | 201.191.20.254 | 255.255.255.0 (/24) | 201.191.20.0/24   |
 
 The show ip interface brief command confirms that all configured interfaces are operational.
 ```plaintext
