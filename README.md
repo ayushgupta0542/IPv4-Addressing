@@ -65,9 +65,11 @@ Command : R1#show running-config
 **PC 2**
 
 
-(https://github.com/ayushgupta0542/IPv4-Addressing/blob/d8330bcdff2d32fdaf7046f77f3285832c9f7103/PC2%20IP%20Config...png)
+![alt image](https://github.com/ayushgupta0542/IPv4-Addressing/blob/d8330bcdff2d32fdaf7046f77f3285832c9f7103/PC2%20IP%20Config...png)
 
 **PC 3**
 
+
+![alt image](https://github.com/ayushgupta0542/IPv4-Addressing/blob/a362af3949a23a53fcefa825467aa66f95e56f75/PC3%20IP%20Config...png)
 
 
