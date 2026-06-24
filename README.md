@@ -50,6 +50,7 @@ Provide Layer 3 connectivity between the three networks.
 Serve as the default gateway for hosts in each subnet.
 Enable inter-network communication through routing.
 
+**Running Configuration**
 ```plaintext
 Command : R1#show running-config
 ```
