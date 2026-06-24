@@ -58,4 +58,16 @@ Command : R1#show running-config
 
 # PC IP CONFIGURATIONS
 **PC 1**
+
+
 ![alt image](https://github.com/ayushgupta0542/IPv4-Addressing/blob/af5316573f92eb3f38897c93b9528fd6b035d2dc/PC1%20IP%20Config...png)
+
+**PC 2**
+
+
+(https://github.com/ayushgupta0542/IPv4-Addressing/blob/d8330bcdff2d32fdaf7046f77f3285832c9f7103/PC2%20IP%20Config...png)
+
+**PC 3**
+
+
+
