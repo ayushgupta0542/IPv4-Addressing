@@ -73,6 +73,7 @@ Command : R1#show running-config
 ![alt image](https://github.com/ayushgupta0542/IPv4-Addressing/blob/a362af3949a23a53fcefa825467aa66f95e56f75/PC3%20IP%20Config...png)
 
 
-# Testing Reachability
+# Testing Reachability Using **PING** command
+![alt image](https://github.com/ayushgupta0542/IPv4-Addressing/blob/1ca26b260b040024dfbbb79cc378634bd4a73ec5/Reachability.png)
 
 
