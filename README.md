@@ -74,6 +74,20 @@ Command : R1#show running-config
 
 
 # Testing Reachability Using **PING** command
+
+PING : The ping command is used to test whether a device can reach another device over a network. It sends ICMP Echo Request packets to the destination and waits for ICMP Echo Reply packets.
+
+
 ![alt image](https://github.com/ayushgupta0542/IPv4-Addressing/blob/1ca26b260b040024dfbbb79cc378634bd4a73ec5/Reachability.png)
+
+
+## Project Outcome
+
+- Designed and implemented a three-network enterprise topology in Cisco Packet Tracer.
+- Configured router interfaces with appropriate IP addresses and subnet masks.
+- Established communication between different networks through routing.
+- Verified interface status using `show ip interface brief`.
+- Tested connectivity between devices using the `ping` command.
+- Documented the physical topology, router configuration, and verification results.
 
 
